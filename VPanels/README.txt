@@ -1,0 +1,1 @@
+The right name of the file "angular-cli.json" should be with a dot at the beginning ".angular-cli.json"
