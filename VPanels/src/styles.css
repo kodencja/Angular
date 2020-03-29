@@ -73,11 +73,11 @@ body {
 
 .panel > *:first-child {
   transform: translateY(-100%);
-  font-size: 0.2em;
+  font-size: 0.01em;
 }
 .panel.open-active > *:first-child {
   transform: translateY(0);
-  font-size: 1em;
+  font-size: 1.3em;
 }
 .panel > *:last-child {
   transform: translateY(100%);
